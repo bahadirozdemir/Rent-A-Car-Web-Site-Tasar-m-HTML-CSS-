@@ -1,0 +1,435 @@
+body
+{
+	 overflow-x: hidden;
+	 background:#ffff;
+	
+}
+.resim hr {
+    width: 100%;
+    margin-top:-100px;
+    size:4;
+    background:white;
+
+}
+.logo
+{
+	
+	text-decoration:none;
+}
+.logo img
+{
+	width:250px;
+	height:250px;
+}
+.resim
+{
+	background-image: linear-gradient(to bottom,#ff0134,#ad0a27);
+	width:100%;
+	height:150px;
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-top:-8px;
+	z-index:1;
+
+
+}
+.logoresim
+{
+	width:50px;
+	height:50px;
+   margin-top:-120px;
+   margin-right:160px;
+}
+.menu
+{
+	width:150px;
+	height:30px;
+	margin-left:20px;
+	margin-top:2px;
+	background:transparent;
+}
+
+.arkamenu
+{
+	width:50px;
+	height:30px;
+    background:url(../resimlerim/88.png);
+	background-size:50px 30px;
+	float:left; 
+	margin-top:15px;
+
+
+
+}
+.buyukmenusayfa
+{
+  width:100%;
+  height:100%;
+  background:url(../resimlerim/54.jpg);
+  position:absolute;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center;
+  z-index:2;
+  display:none;
+ 
+}
+.araclar
+{
+	background:transparent;
+	width:285px;
+	height:400px;
+	position:absolute;
+	margin-left:50px;
+	margin-top:50px;
+	
+}
+
+.link2
+{
+	color:white;transition:700ms; float:left;text-decoration:none;opacity:0;font-family:cursive; font-size:17px;
+
+}
+.link2:hover
+{
+	color:yellow;
+}
+.link3
+{
+	color:white;transition:700ms; float:left;text-decoration:none; opacity:0;font-family:cursive; font-size:17px;margin-left: 50px; 
+}
+.link3:hover
+{
+	color:yellow;
+}
+.link4
+{
+	color:white;transition:700ms; float:left;text-decoration:none; opacity:0;font-family:cursive; font-size:17px;
+}
+.link4:hover
+{
+	color:yellow;
+}
+.link5
+{
+	color:white; transition:700ms; float:left;text-decoration:none;opacity:0; font-family:cursive; font-size:17px;margin-left: 25px;
+}
+.link5:hover
+{
+	color:yellow;
+}
+.araclardiv
+{
+	float:left;width:90px;height:45px; color:white;font-size:20px;font-family:cursive;text-align:left;padding-top:15px;transition:700ms;
+}
+.araclardiv:hover
+{
+	color:yellow;
+
+}
+.sekil1
+{
+	background:url(../resimlerim/xy.png);float:left;width:35px;transition:700ms;height:60px;background-size:20px 20px;background-position:center;float:left;background-repeat:no-repeat;transform:rotate(180deg);
+}
+.kampayanlar
+{
+	float:left;width:145px;height:45px; transition:700ms;color:white;font-size:20px;font-family:cursive;text-align:left;padding-top:15px;
+}
+.kampayanlar:hover
+{
+	color:yellow;
+}
+.misyon
+{
+	float:left;width:250px;height:45px;  transition:700ms;color:white;font-size:20px;font-family:cursive;text-align:left;padding-top:15px; 
+}
+.misyon:hover
+{
+	color:yellow;
+}
+.hak
+{
+	float:left;width:115px;height:45px;transition:700ms; color:white;font-size:20px;font-family:cursive;text-align:left;padding-top:15px;
+}
+.hak:hover
+{
+	color:yellow;
+}
+.iletisim
+{
+	float:left;width:95px;height:45px;transition:700ms; color:white;font-size:20px;font-family:cursive;text-align:left;padding-top:15px;
+}
+.iletisim:hover
+{
+	color:yellow;
+}
+.araclaraltmenu
+{
+	background:transparent;
+	width:800px;
+	height:0px;
+	margin-top:40px;
+	display:none;
+   
+}
+.altlogo
+{
+	width:200px;
+	height:50px;
+	background:url("../resimlerim/FYKHA-logos_white.png");
+	background-size:cover;
+	background-position:center;
+    margin-top:600px;
+    margin-left:650px;
+    opacity:0;
+}
+.cikin
+{
+	width:50px;
+	height:50px;
+	background:url("../resimlerim/output-onlinepngtools (14).png");
+	background-size:cover;
+	background-position:left;
+	background-size:20px 20px;
+	background-repeat:no-repeat;
+	margin-top:-610px;
+	margin-left:1400px;
+	position:absolute;
+	cursor:pointer;
+	opacity:0;
+}
+
+
+
+
+.altheader
+{
+	background:#35353c;
+	width:100%;
+	height:300px;
+	position:relative;
+
+	
+}
+.altheader hr
+{
+
+	width:80%;
+	position:absolute;
+	margin-top:150px;
+	margin-left:130px;
+}
+.telefon
+{
+	
+	width:150px; 
+	height:50px;
+	position:absolute;
+	 font-size:34px; 
+	 margin-left:530px;
+	  margin-top:70px;
+	  background-image:url(../resimlerim/phone-call.png);
+	   background-position: center;
+	   background-repeat: no-repeat;
+	   background-size:50px 50px;
+
+}
+.odeme
+{
+	width:400px;
+	height:50px;
+	background:transparent;
+	position:absolute;
+	margin-top:230px;
+	margin-left:150px;
+}
+.sosyalmedya
+{
+	width:400px;
+	height:50px;
+	background:transparent;
+	position:absolute;
+	margin-top:230px;
+	margin-left:920px;
+}
+.konum
+{
+	width:500px;
+	height:600px;
+	background:transparent;
+	margin-left:50px;
+	margin-top:70px;
+	float:left;
+
+
+}
+.bizeulasin
+{
+	width:500px;
+	height:750px;
+	background:transparent;
+	margin-left:300px;
+	margin-top:70px;
+	float:left;
+}
+.tumkutu
+{
+	width:100%;
+	height:800px;
+	background:transparent;
+	margin:0px auto 0px auto;
+}
+.buton
+{
+	width:250px;
+	height:45px;
+	position:absolute;
+	margin-top:50px;
+	margin-left:80px;
+	border-radius:50px;
+	background:black;
+	overflow:hidden;
+	cursor:pointer;
+
+	
+}
+.buton a
+{
+   background:red;
+   color:white;
+   font:bold 17px arial;
+   display:block;
+   text-align:center;
+   text-decoration:none;
+   width:250px;
+   height:35px;
+   transition:500ms;
+   position:relative;
+   padding-top:10px;
+  
+
+  
+ 
+}
+.buton a:hover
+{
+	background:#00a000;
+
+}
+
+
+.form-style-2{
+	max-width: 500px;
+	padding: 20px 12px 10px 20px;
+	font: 11px Arial, Helvetica, sans-serif;
+	margin-top:15px;
+}
+.form-style-2-heading{
+	font-weight: bold;
+	font-style: italic;
+	border-bottom: 2px solid #ddd;
+	margin-bottom: 20px;
+	font-size: 15px;
+	padding-bottom: 3px;
+}
+.form-style-2 label{
+	display: block;
+	margin: 0px 0px 15px 0px;
+
+}
+.form-style-2 label > span{
+	width: 350px;
+	font-weight: bold;
+	float: left;
+	padding-top: 8px;
+	padding-right: 5px;
+
+}
+.form-style-2 span.required{
+	color:red;
+}
+.form-style-2 .tel-number-field{
+	width: 40px;
+	text-align:center;
+}
+.form-style-2 input.input-field, .form-style-2 .select-field{
+	width: 70%;
+
+}
+.form-style-2 input.input-field, 
+.form-style-2 .tel-number-field, 
+.form-style-2 .textarea-field, 
+ .form-style-2 .select-field{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 1px solid #C2C2C2;
+	box-shadow: 1px 1px 4px #EBEBEB;
+	-moz-box-shadow: 1px 1px 4px #EBEBEB;
+	-webkit-box-shadow: 1px 1px 4px #EBEBEB;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 7px;
+	outline: none;
+}
+.form-style-2 .input-field:focus, 
+.form-style-2 .tel-number-field:focus, 
+.form-style-2 .textarea-field:focus,  
+.form-style-2 .select-field:focus{
+	border: 1px solid #0C0;
+}
+.form-style-2 .textarea-field{
+	height:100px;
+	width: 55%;
+}
+.form-style-2 input[type=submit],
+.form-style-2 input[type=button]{
+	border: none;
+	padding: 8px 15px 8px 15px;
+	background: #FF8500;
+	margin-left:120px;
+	margin-top:70px;
+	color: #fff;
+	box-shadow: 1px 1px 4px #DADADA;
+	-moz-box-shadow: 1px 1px 4px #DADADA;
+	-webkit-box-shadow: 1px 1px 4px #DADADA;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	text-align:center;
+	border-radius:10%;
+	background:green;
+	transition:500ms;
+
+}
+.form-style-2 input[type=submit]:hover,
+.form-style-2 input[type=button]:hover{
+	background:reds;
+	color: #fff;
+}
+.vr2
+{
+
+  border-left: 1px solid black;
+  height:650px;
+  position:absolute;
+  margin-left:740px;
+  margin-top:100px;
+
+}
+.adresinput
+{
+	width:400px;
+	height:150px;
+	padding-bottom:120px;
+}
+.vr3
+{
+
+  border-left: 2px solid #ffff;
+  height:80px;
+  position: absolute;
+  margin:190px 0 0 750px;
+
+}
