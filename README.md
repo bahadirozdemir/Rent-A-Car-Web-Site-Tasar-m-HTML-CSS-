@@ -10,4 +10,4 @@
 ![Ekran Görüntüsü (55)](https://user-images.githubusercontent.com/57031420/143951034-921e5bfc-2dd0-4859-bf15-cfd719068d53.png)
 #
 ![Ekran Görüntüsü (56)](https://user-images.githubusercontent.com/57031420/143951073-84c417f3-373f-4abe-8200-74a559ccee13.png)
-# Ticari Amaçla Kullanılması Yasaktır.
+
